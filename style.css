@@ -98,7 +98,7 @@ body {
 
 .item3 {
   grid-area: item3;
-  background-image: url(./assets/item-nine.jpeg);
+  background-image: url(./assets/item-three.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -146,7 +146,7 @@ body {
 
 .item9 {
   grid-area: item9;
-  background-image: url(./assets/item-three.jpeg);
+  background-image: url(./assets/item-nine.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
