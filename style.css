@@ -84,13 +84,13 @@ body {
 
 .item1 {
   grid-area: item1;
-  background-image: url(../assets/item-one.jpeg);
+  background-image: url(./assets/item-one.jpeg);
   background-size: cover;
   background-position: center;
 }
 .item2 {
   grid-area: item2;
-  background-image: url(../assets/item-two.jpeg);
+  background-image: url(./assets/item-two.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -98,7 +98,7 @@ body {
 
 .item3 {
   grid-area: item3;
-  background-image: url(../assets/item-nine.jpeg);
+  background-image: url(./assets/item-nine.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -106,7 +106,7 @@ body {
 
 .item4 {
   grid-area: item4;
-  background-image: url(../assets/item-six.jpeg);
+  background-image: url(./assets/item-six.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -114,7 +114,7 @@ body {
 
 .item5 {
   grid-area: item5;
-  background-image: url(../assets/item-five.jpeg);
+  background-image: url(./assets/item-five.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -122,7 +122,7 @@ body {
 
 .item6 {
   grid-area: item6;
-  background-image: url(../assets/item-eight.jpeg);
+  background-image: url(./assets/item-eight.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -130,7 +130,7 @@ body {
 
 .item7 {
   grid-area: item7;
-  background-image: url(../assets/item-seven.jpeg);
+  background-image: url(./assets/item-seven.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -138,7 +138,7 @@ body {
 
 .item8 {
   grid-area: item8;
-  background-image: url(../assets/item-four.jpeg);
+  background-image: url(./assets/item-four.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -146,7 +146,7 @@ body {
 
 .item9 {
   grid-area: item9;
-  background-image: url(../assets/item-three.jpeg);
+  background-image: url(./assets/item-three.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
